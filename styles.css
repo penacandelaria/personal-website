@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+	background-color: #7EB2AA;
+	font-family: 'Montserrat', sans-serif;
+	background-size: 60px 40px;
+}
+
+h1 {
+	color: #006F65;
+}
+
+a:link, a:visited {
+	color: #FF4800;
+}
+
+p.hello {
+	color: #006F65;
+}
